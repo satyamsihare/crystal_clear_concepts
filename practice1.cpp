@@ -4,6 +4,6 @@ int main()
 {
 	cout<<"Enjoying much!";
 	cout<<"It's Working correctly";
-	cout<<"real happiness";
+	cout<<"crystal cleared concepts";
 	return 0;
 }
